@@ -1,0 +1,24 @@
+{
+"products": [
+  {
+    "name": "Intel Core I9 12900K",
+    "type": microprocessor,
+    "price" 15000,
+    "isAvailable": true
+  },
+  
+  {
+    "name": "Nvidia Geforce RTX 3090",
+    "type": graphical processing unit,
+    "price": 32000,
+    "isAvailable": true
+  },
+
+  {
+    "name": "Asus ROG Maximus Z690 EVA Edition",
+    "type": motherboard,
+    "price": 10000,
+    "isAvailable": false
+  }
+           ]
+}
