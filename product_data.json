@@ -1,7 +1,6 @@
 {
 "products": [
   {
-    "image": "https://www.intel.com/content/dam/www/public/us/en/newsroom/posts/intel-core-i9-12900ks-1-16x9.jpg"
     "name": "Intel Core I9 12900K",
     "type": "Microprocessor",
     "price": 15000,
