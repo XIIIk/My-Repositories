@@ -1,5 +1,5 @@
 {
-"products": [
+"products": {
   {
     "name": "Intel Core I9 12900K",
     "type": "Microprocessor",
@@ -18,5 +18,5 @@
     "price": 10000,
     "isAvailable": false
   }
- ]
+}
 }
