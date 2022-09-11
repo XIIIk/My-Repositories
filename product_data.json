@@ -6,17 +6,17 @@
     "price": 15000,
     "isAvailable": true
   },
-    {
-      "name": "Nvidia Geforce RTX 3090",
-      "type": "Graphical Processing Unit",
-      "price": 32000,
-      "isAvailable": true
-    },
-      {
-        "name": "Asus ROG Maximus Z690 EVA Edition",
-        "type": "Motherboard",
-        "price": 10000,
-        "isAvailable": false
-      }
-   ]
- }
+  {
+    "name": "Nvidia Geforce RTX 3090",
+    "type": "Graphical Processing Unit",
+    "price": 32000,
+    "isAvailable": true
+  },
+  {
+    "name": "Asus ROG Maximus Z690 EVA Edition",
+    "type": "Motherboard",
+    "price": 10000,
+    "isAvailable": false
+  }
+ ]
+}
